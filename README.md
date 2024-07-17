@@ -12,7 +12,7 @@ A Python Spotify downloader
 ### Images
 
 Tkinter
-![tkinterprev](images/1.png)
+![tkinterprev](1.png)
 
 Customtkinter
-![ctkprev](images/2.png)
+![ctkprev](2.png)
